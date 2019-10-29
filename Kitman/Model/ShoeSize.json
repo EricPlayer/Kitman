@@ -1,0 +1,454 @@
+{
+  "success": true, 
+  "shoe_size_list": [ 
+     { 
+      "type_id": "1", 
+      "type_name": "Men", 
+      "shoe_size": [ 
+         { 
+          "size_id": "1", 
+          "us_size": "6", 
+          "euro_size": "39", 
+          "uk_size": "5.5", 
+          "inches": "9.25", 
+          "cm": "23.5" 
+         }, 
+         { 
+          "size_id": "2", 
+          "us_size": "6.5", 
+          "euro_size": "39", 
+          "uk_size": "6", 
+          "inches": "9.5", 
+          "cm": "24.1" 
+         }, 
+         { 
+          "size_id": "3", 
+          "us_size": "7", 
+          "euro_size": "40", 
+          "uk_size": "6.5", 
+          "inches": "9.625", 
+          "cm": "24.4" 
+         }, 
+         { 
+          "size_id": "4", 
+          "us_size": "7.5", 
+          "euro_size": "40-41", 
+          "uk_size": "7", 
+          "inches": "9.75", 
+          "cm": "24.8" 
+         }, 
+         { 
+          "size_id": "5", 
+          "us_size": "8", 
+          "euro_size": "41", 
+          "uk_size": "7.5", 
+          "inches": "9.9375", 
+          "cm": "25.4" 
+         }, 
+         { 
+          "size_id": "6", 
+          "us_size": "8.5", 
+          "euro_size": "41-42", 
+          "uk_size": "8", 
+          "inches": "10.125", 
+          "cm": "25.7" 
+         }, 
+         { 
+          "size_id": "7", 
+          "us_size": "9", 
+          "euro_size": "42", 
+          "uk_size": "8.5", 
+          "inches": "10.25", 
+          "cm": "26" 
+         }, 
+         { 
+          "size_id": "8", 
+          "us_size": "9.5", 
+          "euro_size": "42-43", 
+          "uk_size": "9", 
+          "inches": "10.4375", 
+          "cm": "26.7" 
+         }, 
+         { 
+          "size_id": "9", 
+          "us_size": "10", 
+          "euro_size": "43", 
+          "uk_size": "9.5", 
+          "inches": "10.5625", 
+          "cm": "27" 
+         }, 
+         { 
+          "size_id": "10", 
+          "us_size": "10.5", 
+          "euro_size": "43-44", 
+          "uk_size": "10", 
+          "inches": "10.75", 
+          "cm": "27.3" 
+         }, 
+         { 
+          "size_id": "11", 
+          "us_size": "11", 
+          "euro_size": "44", 
+          "uk_size": "10.5", 
+          "inches": "10.9375", 
+          "cm": "27.9" 
+         }, 
+         { 
+          "size_id": "12", 
+          "us_size": "11.5", 
+          "euro_size": "44-45", 
+          "uk_size": "11", 
+          "inches": "11.125", 
+          "cm": "28.3" 
+         }, 
+         { 
+          "size_id": "13", 
+          "us_size": "12", 
+          "euro_size": "45", 
+          "uk_size": "11.5", 
+          "inches": "11.25", 
+          "cm": "28.6" 
+         }, 
+         { 
+          "size_id": "14", 
+          "us_size": "13", 
+          "euro_size": "46", 
+          "uk_size": "12.5", 
+          "inches": "11.5625", 
+          "cm": "29.4" 
+         }, 
+         { 
+          "size_id": "15", 
+          "us_size": "14", 
+          "euro_size": "47", 
+          "uk_size": "13.5", 
+          "inches": "11.875", 
+          "cm": "30.2" 
+         }, 
+         { 
+          "size_id": "16", 
+          "us_size": "15", 
+          "euro_size": "48", 
+          "uk_size": "14.5", 
+          "inches": "12.1875", 
+          "cm": "31" 
+         }, 
+         { 
+          "size_id": "17", 
+          "us_size": "16", 
+          "euro_size": "49", 
+          "uk_size": "15.5", 
+          "inches": "12.5", 
+          "cm": "31.8" 
+         } 
+      ] 
+     }, 
+     { 
+      "type_id": "2", 
+      "type_name": "Women", 
+      "shoe_size": [ 
+         { 
+          "size_id": "18", 
+          "us_size": "4", 
+          "euro_size": "35", 
+          "uk_size": "2", 
+          "inches": "8.1875", 
+          "cm": "20.8" 
+         }, 
+         { 
+          "size_id": "19", 
+          "us_size": "4.5", 
+          "euro_size": "35", 
+          "uk_size": "2.5", 
+          "inches": "8.375", 
+          "cm": "21.3" 
+         }, 
+         { 
+          "size_id": "20", 
+          "us_size": "5", 
+          "euro_size": "35-36", 
+          "uk_size": "3", 
+          "inches": "8.5", 
+          "cm": "21.6" 
+         }, 
+         { 
+          "size_id": "21", 
+          "us_size": "5.5", 
+          "euro_size": "36", 
+          "uk_size": "3.5", 
+          "inches": "8.75", 
+          "cm": "22.2" 
+         }, 
+         { 
+          "size_id": "22", 
+          "us_size": "6", 
+          "euro_size": "36-37", 
+          "uk_size": "4", 
+          "inches": "8.875", 
+          "cm": "22.5" 
+         }, 
+         { 
+          "size_id": "23", 
+          "us_size": "6.5", 
+          "euro_size": "37", 
+          "uk_size": "4.5", 
+          "inches": "9.0625", 
+          "cm": "23" 
+         }, 
+         { 
+          "size_id": "24", 
+          "us_size": "7", 
+          "euro_size": "37-38", 
+          "uk_size": "5", 
+          "inches": "9.25", 
+          "cm": "23.5" 
+         }, 
+         { 
+          "size_id": "25", 
+          "us_size": "7.5", 
+          "euro_size": "38", 
+          "uk_size": "5.5", 
+          "inches": "9.375", 
+          "cm": "23.8" 
+         }, 
+         { 
+          "size_id": "26", 
+          "us_size": "8", 
+          "euro_size": "38-39", 
+          "uk_size": "6", 
+          "inches": "9.5", 
+          "cm": "24.1" 
+         }, 
+         { 
+          "size_id": "27", 
+          "us_size": "8.5", 
+          "euro_size": "39", 
+          "uk_size": "6.5", 
+          "inches": "9.6875", 
+          "cm": "24.6" 
+         }, 
+         { 
+          "size_id": "28", 
+          "us_size": "9", 
+          "euro_size": "39-40", 
+          "uk_size": "7", 
+          "inches": "9.875", 
+          "cm": "25.1" 
+         }, 
+         { 
+          "size_id": "29", 
+          "us_size": "9.5", 
+          "euro_size": "40", 
+          "uk_size": "7.5", 
+          "inches": "10", 
+          "cm": "25.4" 
+         }, 
+         { 
+          "size_id": "30", 
+          "us_size": "10", 
+          "euro_size": "40-41", 
+          "uk_size": "8", 
+          "inches": "10.1875", 
+          "cm": "25.9" 
+         }, 
+         { 
+          "size_id": "31", 
+          "us_size": "10.5", 
+          "euro_size": "41", 
+          "uk_size": "8.5", 
+          "inches": "10.3125", 
+          "cm": "26.2" 
+         }, 
+         { 
+          "size_id": "32", 
+          "us_size": "11", 
+          "euro_size": "41-42", 
+          "uk_size": "9", 
+          "inches": "10.5", 
+          "cm": "26.7" 
+         }, 
+         { 
+          "size_id": "33", 
+          "us_size": "11.5", 
+          "euro_size": "42", 
+          "uk_size": "9.5", 
+          "inches": "10.6875", 
+          "cm": "27.1" 
+         }, 
+         { 
+          "size_id": "34", 
+          "us_size": "12", 
+          "euro_size": "42-43", 
+          "uk_size": "10", 
+          "inches": "10.875", 
+          "cm": "27.6" 
+         } 
+      ] 
+     }, 
+     { 
+      "type_id": "3", 
+      "type_name": "Kid (4-7)", 
+      "shoe_size": [ 
+         { 
+          "size_id": "43", 
+          "us_size": "11", 
+          "euro_size": "28", 
+          "uk_size": "10", 
+          "inches": "6.75", 
+          "cm": "17.1" 
+         }, 
+         { 
+          "size_id": "44", 
+          "us_size": "11.5", 
+          "euro_size": "29", 
+          "uk_size": "10.5", 
+          "inches": "7", 
+          "cm": "17.8" 
+         }, 
+         { 
+          "size_id": "45", 
+          "us_size": "12", 
+          "euro_size": "30", 
+          "uk_size": "11", 
+          "inches": "7.125", 
+          "cm": "18.1" 
+         }, 
+         { 
+          "size_id": "46", 
+          "us_size": "12.5", 
+          "euro_size": "30", 
+          "uk_size": "11.5", 
+          "inches": "7.25", 
+          "cm": "18.4" 
+         }, 
+         { 
+          "size_id": "47", 
+          "us_size": "13", 
+          "euro_size": "31", 
+          "uk_size": "12", 
+          "inches": "7.5", 
+          "cm": "19.1" 
+         }, 
+         { 
+          "size_id": "48", 
+          "us_size": "13.5", 
+          "euro_size": "31", 
+          "uk_size": "12.5", 
+          "inches": "7.625", 
+          "cm": "19.4" 
+         }, 
+         { 
+          "size_id": "49", 
+          "us_size": "1", 
+          "euro_size": "32", 
+          "uk_size": "13", 
+          "inches": "7.75", 
+          "cm": "19.7" 
+         }, 
+         { 
+          "size_id": "50", 
+          "us_size": "1.5", 
+          "euro_size": "33", 
+          "uk_size": "14", 
+          "inches": "8", 
+          "cm": "20.3" 
+         }, 
+         { 
+          "size_id": "51", 
+          "us_size": "2", 
+          "euro_size": "33", 
+          "uk_size": "1", 
+          "inches": "8.125", 
+          "cm": "20.6" 
+         }, 
+         { 
+          "size_id": "52", 
+          "us_size": "2.5", 
+          "euro_size": "34", 
+          "uk_size": "1.5", 
+          "inches": "8.25", 
+          "cm": "21" 
+         }, 
+         { 
+          "size_id": "53", 
+          "us_size": "3", 
+          "euro_size": "34", 
+          "uk_size": "2", 
+          "inches": "8.5", 
+          "cm": "21.6" 
+         } 
+      ] 
+     }, 
+     { 
+      "type_id": "4", 
+      "type_name": "Kid (7-12)", 
+      "shoe_size": [ 
+         { 
+          "size_id": "35", 
+          "us_size": "3.5", 
+          "euro_size": "35", 
+          "uk_size": "2.5", 
+          "inches": "8.625", 
+          "cm": "21.9" 
+         }, 
+         { 
+          "size_id": "36", 
+          "us_size": "4", 
+          "euro_size": "36", 
+          "uk_size": "3", 
+          "inches": "8.75", 
+          "cm": "22.2" 
+         }, 
+         { 
+          "size_id": "37", 
+          "us_size": "4.5", 
+          "euro_size": "36", 
+          "uk_size": "3.5", 
+          "inches": "9", 
+          "cm": "22.9" 
+         }, 
+         { 
+          "size_id": "38", 
+          "us_size": "5", 
+          "euro_size": "37", 
+          "uk_size": "4", 
+          "inches": "9.125", 
+          "cm": "23.2" 
+         }, 
+         { 
+          "size_id": "39", 
+          "us_size": "5.5", 
+          "euro_size": "37", 
+          "uk_size": "4.5", 
+          "inches": "9.25", 
+          "cm": "23.5" 
+         }, 
+         { 
+          "size_id": "40", 
+          "us_size": "6", 
+          "euro_size": "38", 
+          "uk_size": "5", 
+          "inches": "9.5", 
+          "cm": "24.1" 
+         }, 
+         { 
+          "size_id": "41", 
+          "us_size": "6.5", 
+          "euro_size": "38", 
+          "uk_size": "5.5", 
+          "inches": "9.625", 
+          "cm": "24.4" 
+         }, 
+         { 
+          "size_id": "42", 
+          "us_size": "7", 
+          "euro_size": "39", 
+          "uk_size": "6", 
+          "inches": "9.75", 
+          "cm": "24.8" 
+         } 
+      ] 
+     } 
+  ], 
+  "msg": "Result success" 
+ }

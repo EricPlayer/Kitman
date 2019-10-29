@@ -1,0 +1,6 @@
+framework module Pods_Kitman {
+  umbrella header "Pods-Kitman-umbrella.h"
+
+  export *
+  module * { export * }
+}
